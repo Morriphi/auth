@@ -1,0 +1,19 @@
+{
+  "name": "ttl-authentication",
+  "version": "1.0.0",
+  "description": "auth user credentials against ttl users",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Philip Morris",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "douche": "0.0.1",
+    "soap": "^0.9.1"
+  }
+}
